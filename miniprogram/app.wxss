@@ -1,3 +1,4 @@
+@import './components/tabbar/tabbar.wxss';
 /**app.wxss**/
 .container {
   display: flex;
